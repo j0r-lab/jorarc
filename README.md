@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @jorarc and I'm trying to learn Python
